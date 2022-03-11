@@ -25,7 +25,7 @@
 </div>
 
 <h2> Connect with me 😄 </h2> 
-<a href="https://www.linkedin.com/in/raynne-andrade">
+<a href="https://www.linkedin.com/in/raynne-andrade-6ba995170/" target="_blank">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnXtsBgKG6YI2xjJ2ZE4YELyR3EQhX21S8A&usqp=CAU" alt="Raynne Andrade" width='60px' /> 
 </a>
 <!--
