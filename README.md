@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h1> I'm Raynne 🖤 </h1>
+🌱 I’m currently learning a lot of programming languages and intend to do my best in all of them, I'm looking forward to showing my progress with all the projects here!
+<h2> My Skills ⚙ </h2>
+CSS HMTL5 Bootstrap JS MySQL
+
+Learning 📖
+
+Connect with me 😄
 <!--
 **Raynne-Andrade/Raynne-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
