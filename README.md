@@ -22,7 +22,13 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPQL_6v-OP3R2SoXH4ieLAPNzsuKzv33ivMQ&usqp=CAU" alt="Node"width='50px' height='50px'/> 
   <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/php_logo_icon_144990.png" alt="PHP" height='50px' style="object-fit: cover;"/> 
   <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-laravel.jpg" alt="Laravel" width='60px' height='50px'/> 
-</div>
+</div
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <h2> Connect with me 😄 </h2> 
 <a href="https://www.linkedin.com/in/raynne-andrade-6ba995170/" target="_blank">
@@ -42,3 +48,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
