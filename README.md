@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+  
 <h1> I'm Raynne 🖤 </h1>
 🚀 I’m currently learning a lot of programming languages and intend to do my best in all of them, I'm looking forward to showing my progress with all the projects here!
 <h2> My Skills ⚙ </h2>
@@ -24,12 +30,7 @@
   <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-laravel.jpg" alt="Laravel" width='60px' height='50px'/> 
 </div
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
+  
 <h2> Connect with me 😄 </h2> 
 <a href="https://www.linkedin.com/in/raynne-andrade-6ba995170/" target="_blank">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnXtsBgKG6YI2xjJ2ZE4YELyR3EQhX21S8A&usqp=CAU" alt="Raynne Andrade" width='60px' /> 
