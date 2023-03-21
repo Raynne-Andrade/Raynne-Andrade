@@ -1,52 +1,58 @@
-### Hi there 👋
+### Oie devs 👋
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
-  
-<h1> I'm Raynne 🖤 </h1>
-🚀 I’m currently learning a lot of programming languages and intend to do my best in all of them, I'm looking forward to showing my progress with all the projects here!
-<h2> My Skills ⚙ </h2>
-<div style="display:flex;">
-  <img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-rose.png" alt="HTML" width='60px' height='60px'/> 
-  <img src="https://p1.hiclipart.com/preview/951/574/485/react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends-png-clipart.jpg" 
-       alt="JavaScript" width='45px' height='45px' style="background:#fff"/> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpNYLQj1JDQnc-3-k_3aFpAdcMI71NeOnOqKtrFzELb_rZxj4T2n2paK9Amxty89opXVI&usqp=CAU" alt="CSS"
-       width='50px' height='50px'/> 
-  <img src="https://miro.medium.com/max/900/1*0_zl1YRcPy0ymOpgJ0dQKA.jpeg" alt="VueJS" width='90px' height='50px' style="object-fit: cover;"/> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypesCript" width='50px' height='50px'/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS" width='60px' height='50px'/> 
-</div>
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-<h2> Learning 📖 </h2>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<div style="display:flex;">
-  <img src="https://logospng.org/download/java/logo-java-2048.png" alt="Java" width='60px' height='60px'/> 
-  <img src="https://fuzati.com/wp-content/uploads/2016/12/Bootstrap-Logo.png" alt="Bootstrap" width='60px' height='45px' style="background:#fff"/> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPQL_6v-OP3R2SoXH4ieLAPNzsuKzv33ivMQ&usqp=CAU" alt="Node"width='50px' height='50px'/> 
-  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/php_logo_icon_144990.png" alt="PHP" height='50px' style="object-fit: cover;"/> 
-  <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-laravel.jpg" alt="Laravel" width='60px' height='50px'/> 
-</div
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-  
-<h2> Connect with me 😄 </h2> 
-<a href="https://www.linkedin.com/in/raynne-andrade-6ba995170/" target="_blank">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnXtsBgKG6YI2xjJ2ZE4YELyR3EQhX21S8A&usqp=CAU" alt="Raynne Andrade" width='60px' /> 
+```kotlin
+object Raynne {
+ val name = "Raynne Andrade"
+ val acknowledgements = "Front End"
+ 
+ val primarySkillset = "ReactJS"
+ val languages = listOf("VueJS", "JavaScript", "Html", "CSS", "React") 
+
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raynne-andrade&theme=dracula&hide_langs_below=1" />
 </a>
-<!--
-**Raynne-Andrade/Raynne-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=raynne-andrade&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://codedev.ga/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+<br>
+
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 
