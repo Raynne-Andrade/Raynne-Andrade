@@ -11,7 +11,7 @@ object Raynne {
  val name = "Raynne Andrade"
  val career = "Front End"
  
- val primarySkillset = "ReactJS"
+ val primarySkillset = "VueJs"
  val languages = listOf("VueJS", "JavaScript", "Html", "CSS", "React") 
 
 }
